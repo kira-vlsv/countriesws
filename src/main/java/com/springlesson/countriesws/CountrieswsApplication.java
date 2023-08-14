@@ -10,4 +10,6 @@ public class CountrieswsApplication {
 		SpringApplication.run(CountrieswsApplication.class, args);
 	}
 
+
+
 }
